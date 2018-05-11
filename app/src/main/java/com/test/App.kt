@@ -1,4 +1,4 @@
-package com.mywknew
+package com.test
 
 import android.app.Application
 import org.greenrobot.eventbus.EventBus

@@ -1,4 +1,4 @@
-package com.mywknew
+package com.test
 
 import android.arch.lifecycle.MutableLiveData
 import android.arch.lifecycle.ViewModel
